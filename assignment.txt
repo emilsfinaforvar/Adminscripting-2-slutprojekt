@@ -1,0 +1,19 @@
+SLUTPROJEKT - ADMINTOOLS
+
+Du har fått ett antal färdiga PowerShell-script.
+
+Din uppgift är att:
+1. Strukturera projektet.
+2. Skapa egna mappar.
+3. Få menyn att fungera.
+4. Skapa README.md.
+5. Skapa .gitignore.
+6. Publicera projektet på GitHub.
+7. Dokumentera projektet.
+8. Lämna in länken till ditt Github repo
+
+BONUS:
+- Banner
+- Loggning
+- Egna script
+- Screenshots
