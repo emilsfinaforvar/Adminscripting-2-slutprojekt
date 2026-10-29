@@ -1,0 +1,1 @@
+Här finns det information om olika scripts som finns i denna mapp. Hoppas de är användbara för dig som använder dem.
